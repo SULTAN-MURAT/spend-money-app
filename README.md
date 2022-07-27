@@ -1,3 +1,3 @@
 # spend-money-app
 ---
-![spend-money-app](./img/appscreenshot.png)
+![spend-money-app](./img/app-screenshot.png)
